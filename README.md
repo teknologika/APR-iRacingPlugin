@@ -1,1 +1,1 @@
-# APR-iRacingPlugin-Releases
+# APR-iRacingPlugin
